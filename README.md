@@ -60,7 +60,7 @@ Tools: Git, Android Studio, VS Code, Apache POI.
 
 LinkedIn: https://www.linkedin.com/in/amey-dunakhe-7265a733b
 
-Portfolio: https://portfolioameyrd10.netlify.app
+Portfolio: https://ameysportfolio10.netlify.app/
 
 Email: dunakheamey726@gmail.com
 
