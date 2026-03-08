@@ -69,20 +69,6 @@
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Ameycode/Ameycode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00b386/Ameycode" alt="Amey's GitHub Contribution Chart" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
