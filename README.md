@@ -16,25 +16,9 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## Tech Stack
 
-```javascript
-const amey = {
-  name: "Amey Dunakhe",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentlyBuilding: "Cool stuff with React & Flutter 🚀",
-  learning: ["System Design", "Cloud Architecture", "AI/ML"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-  portfolio: "https://ameydunakhe.netlify.app/",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +27,7 @@ const amey = {
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Languages
+### Backend & Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -51,7 +35,7 @@ const amey = {
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -59,7 +43,7 @@ const amey = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🚀 Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -72,7 +56,7 @@ const amey = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,22 +69,16 @@ const amey = {
 
 ---
 
-## 🚀 Current Projects
-
-| 🔥 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|----------|
-| 🌐 **Portfolio** | Personal portfolio showcasing my work | React, CSS, Netlify |
-| 📱 **Mobile App** | Cross-platform app built with Flutter | Flutter, Firebase |
-| 🔧 **Full Stack App** | End-to-end web application | React, Node.js, MongoDB |
-
-> 💡 *"Every project is a new adventure!"*
-
----
-
-## 📈 Contribution Graph
+## Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ameycode&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&hide_border=true&area=true&area_color=6AD3F720" />
+  <img src="https://github.com/Ameycode/Ameycode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00b386/Ameycode" alt="Amey's GitHub Contribution Chart" />
 </div>
 
 ---
@@ -118,10 +96,6 @@ const amey = {
 <a href="https://ameydunakhe.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-
-<br/><br/>
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
 
